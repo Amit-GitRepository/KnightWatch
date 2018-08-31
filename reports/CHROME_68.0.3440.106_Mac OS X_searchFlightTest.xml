@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="searchFlightTest"
+    errors="0" failures="0" hostname="" id="" package="searchFlightTest" skipped="0"
+    tests="1" time="7.732" timestamp="Thu, 30 Aug 2018 10:03:57 GMT">
+  
+    <testcase name="Search flight and validate search results" classname="searchFlightTest" time="7.732" assertions="9">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

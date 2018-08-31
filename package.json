@@ -1,0 +1,21 @@
+{
+  "name": "ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nightwatch",
+    "UIAutomation": "selenium-standalone install"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "selenium-server": "^3.14.0",
+    "selenium-standalone": "^6.15.2"
+  },
+  "dependencies": {
+    "handlebars": "^4.0.11",
+    "nightwatch-html-reporter": "^2.0.5"
+  }
+}
